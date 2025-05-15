@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Augusto 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;iOS+%F0%9F%A4%96+%7C+React+Native+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Open+Source+Enthusiast;NodeJS+%F0%9F%A4%96+%7C+React+Native+%F0%9F%92%BB;Lifelong+Learner+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m always learning about **Javascriptt**, **Typescript**, **React Native**, **AI tools**, **DevOps**, **web3** and more 😅
-- 💬 Ask me about `React Native`, `GraphQL` and `Mobile UX`
+- 💬 Ask me about `React Native`, `NodeJS`, `GraphQL` and `Mobile UX`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/augustoalegon) (or feel free to open an issue!)
 
 ---
