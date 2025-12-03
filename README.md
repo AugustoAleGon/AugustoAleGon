@@ -49,7 +49,7 @@
 </details>
 
 
-⚡ Fun fact: When I'm not coding, I enjoy [your hobby/interest here]!
+⚡ Fun fact: When I'm not coding, I enjoy traveling or watch anime!
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
