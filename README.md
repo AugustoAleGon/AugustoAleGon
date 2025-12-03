@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m always learning about **Javascript**, **Typescript**, **React Native**, **AI tools**, **DevOps**, **web3** and more 😅
-- 💬 Ask me about `React Native`, `NodeJS`, `GraphQL`, 'NextJS` and `Mobile UX`
+- 💬 Ask me about `React Native`, `NodeJS`, `GraphQL`, 'NextJS`, and `Mobile UX.`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/augustoalegon) (or feel free to open an issue!)
 
 ---
@@ -24,9 +24,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://gh-readme-profile.vercel.app/api?username=AugustoAleGon&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://gh-readme-profile.vercel.app/api/top-langs/?username=AugustoAleGon&layout=compact&theme=tokyonight" height="170" />
+<p align="center" display="flex" gap="5" flex-direction="column">
+  <img src="https://gh-readme-profile.vercel.app/api?username=AugustoAleGon&show_icons=true&theme=tokyonight" height="300" />
+  <img src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=AugustoAleGon&type=languages&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 </details>
 
 
-⚡ Fun fact: When I'm not coding, I enjoy traveling or watch anime!
+⚡ Fun fact: When I'm not coding, I enjoy traveling or watching anime!
 
 ---
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
