@@ -9,7 +9,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I’m always learning about **Javascript**, **Typescript**, **React Native**, **AI tools**, **DevOps**, **web3** and more 😅
-- 💬 Ask me about `React Native`, `NodeJS`, `GraphQL`, 'NextJS`, and `Mobile UX.`
+- 💬 Ask me about `React Native`, `NodeJS`, `GraphQL`, `NextJS`, and `Mobile UX.`
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/augustoalegon) (or feel free to open an issue!)
 
 ---
