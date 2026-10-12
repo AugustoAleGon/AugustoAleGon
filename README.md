@@ -41,13 +41,6 @@
 
 ---
 
-<details>
-  <summary>📈 GitHub Activity</summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoAleGon&theme=tokyo-night" />
-  </p>
-</details>
-
 
 ⚡ Fun fact: When I'm not coding, I enjoy traveling or watching anime!
 
